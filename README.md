@@ -8,9 +8,6 @@ I'm an Undergraduate student in my Senior year studying Computer Science at Texa
 
 My experience consists of a Web Development internship in Tokyo with Emurgo , and a research project at the Advanced Particle Detector Laboratory. I am currently looking for an internship/full-time opportunity.
 
-I love learning new things, and trying new techonologies. With the amount of resources available online, I taught myself web development and the first project I wanted to do was a personal website. This website was built using Gatsby and the next framework I want to learn for React is Next.js.
-
-
 
 
 <!--
